@@ -17,14 +17,18 @@ Welcome to the CodeWithHamza OPP Bank CLI, a command-line interface application 
 - **Inquirer**: A collection of common interactive command-line user interfaces.
 - **Chalk**: Terminal string styling done right.
 
-## Prerequisites
-
-- Node.js (>= 12.x)
-- npm (>= 6.x)
-
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/CodeWithHamzaa/TypeScript-OOP-Bank.git
    cd TypeScript-OOP-Bank
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+CodeWithHamza - https://github.com/CodeWithHamzaa
+
+Feel free to contribute to the project by opening issues or submitting pull requests!
+
